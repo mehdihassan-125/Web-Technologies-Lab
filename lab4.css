@@ -1,0 +1,16 @@
+/* style.css */
+body {
+    background-color: lightgray;
+    font-family: Arial, sans-serif;
+}
+
+h3 {
+    color: darkblue;
+    text-align: center;
+}
+
+.external-para {
+    color: brown;
+    font-size: 18px;
+    text-align: center;
+}
